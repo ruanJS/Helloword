@@ -4,9 +4,10 @@ import {View, Text, StyleSheet} from 'react-native';
 function App (){
   return (
     <View style={styles.container}>
-      <Text>Olá mundo!!!</Text>
-      <Text>Linha 2</Text>
-      <Text>Linha 3</Text>
+      <Text>Ruan Guedes</Text>
+      <Text>FIAP</Text>
+      <Text>Análise e Desenvolvimento de Sistemas - ADS</Text>
+      <Text>2TDSR</Text>
     </View>
   )
 }
